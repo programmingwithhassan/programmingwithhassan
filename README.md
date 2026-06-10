@@ -1,6 +1,6 @@
 # Hi, I'm Iftikhar Hassan 👋
 
-🎓 BS Information Technology Student
+🎓 BSCS Student
 
 💻 Technical Skills:
 - HTML
